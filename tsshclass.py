@@ -1,4 +1,4 @@
-from paramiko import SSHClient,AutoAddPolicy,AuthenticationException,SSHException
+from paramiko import SSHClient,AutoAddPolicy
 from threading import Thread
 import numpy as np
 from socket import timeout

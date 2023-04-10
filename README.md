@@ -10,6 +10,13 @@ python3 tssh.py -u life -hw hosts.txt --password admin123
 python3 tssh.py -u life -hw hosts.txt -pw password.txt -o output.txt
 ```
 
+# Setup
+```bash	
+git clone https://github.com/mvlttt/tssh.git
+cd tssh
+pip install -r requirements.txt
+```
+
 # Options
 
 ```
